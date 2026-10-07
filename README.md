@@ -26,9 +26,7 @@
 | --- | --- |
 | [**seo-aeo-geo-site**](https://github.com/bascowave/seo-aeo-geo-site) | Skill/agent para auditar e implementar SEO, AEO e GEO |
 | [**transcription**](https://github.com/bascowave/transcription) | Ferramentas de transcrição em TypeScript |
-| [**lp-guria-coffe-spot**](https://github.com/bascowave/lp-guria-coffe-spot) | Landing page Guria! Coffee Spot — vinext + Coolify |
-| [**lp-helia-dias-cabelereiro**](https://github.com/bascowave/lp-helia-dias-cabelereiro) | Landing page Hélia Dias Cabeleireiros — Esposende |
-| [**lp-cafe-praia-norte**](https://github.com/bascowave/lp-cafe-praia-norte) | Landing page Praia Norte Bar — Viana do Castelo |
+| [**Silence-Cutter**](https://github.com/bascowave/Silence-Cutter) | GUI para cortar silêncios em vídeo com auto-editor — Python |
 | [**taskletto-ers**](https://github.com/bascowave/taskletto-ers) | Tarefas e notas — Laravel + Tiptap |
 
 ### Stack
