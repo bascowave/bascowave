@@ -1,13 +1,15 @@
-<h1 align="center">Olá, eu sou o Basco Wave </h1>
+<h1 align="center">Olá, eu sou o Basco Wave 👋</h1>
 
 <p align="center">
   Desenvolvedor web focado em <strong>landing pages</strong>, produtos digitais e deploy com <strong>Coolify</strong>.
   <br />
-  Portugal · <a href="https://ersolutions.tech">ER Solutions</a>
+  Portugal · <a href="https://ersolutions.tech">ER Solutions</a> · <a href="https://camadapratica.blog">Camada Prática</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bascowave"><img src="https://img.shields.io/badge/GitHub-bascowave-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.youtube.com/@Basco-flowia"><img src="https://img.shields.io/badge/YouTube-@Basco--flowia-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://camadapratica.blog"><img src="https://img.shields.io/badge/Blog-camadapratica.blog-10b981?style=for-the-badge" alt="Blog" /></a>
   <a href="https://ersolutions.tech"><img src="https://img.shields.io/badge/Site-ersolutions.tech-0ea5e9?style=for-the-badge" alt="Site" /></a>
 </p>
 
@@ -19,6 +21,7 @@
 - Backends e ferramentas com **TypeScript** e **Laravel**
 - SEO, AEO e GEO para sites existentes
 - Infra e deploy self-hosted na VPS com **Coolify**
+- Conteúdo no YouTube [**@Basco-flowia**](https://www.youtube.com/@Basco-flowia) e artigos no [**camadapratica.blog**](https://camadapratica.blog)
 
 ### Projetos em destaque
 
