@@ -1,9 +1,7 @@
 <h1 align="center">Olá, eu sou o Basco Wave 👋</h1>
 
 <p align="center">
-  Desenvolvedor web focado em <strong>landing pages</strong>, produtos digitais e deploy com <strong>Coolify</strong>.
-  <br />
-  Portugal · <a href="https://ersolutions.tech">ER Solutions</a> · <a href="https://camadapratica.blog">Camada Prática</a>
+  <strong>Desenvolvedor web</strong> em Portugal · <a href="https://ersolutions.tech">ER Solutions</a> · <a href="https://camadapratica.blog">Camada Prática</a>
 </p>
 
 <p align="center">
@@ -15,13 +13,22 @@
 
 ---
 
-### O que faço
+### Sobre mim
 
-- Sites e landing pages rápidas (Astro, Next.js, CSS moderno)
-- Backends e ferramentas com **TypeScript** e **Laravel**
-- SEO, AEO e GEO para sites existentes
-- Infra e deploy self-hosted na VPS com **Coolify**
-- Conteúdo no YouTube [**@Basco-flowia**](https://www.youtube.com/@Basco-flowia) e artigos no [**camadapratica.blog**](https://camadapratica.blog)
+Sou o **Basco Wave**. Trabalho no limite entre **produto**, **código** e **operação**: levo ideias de negócio a sites e ferramentas que funcionam no mundo real — com deploy, performance e manutenção pensados desde o primeiro commit.
+
+Na [**ER Solutions**](https://ersolutions.tech) faço presença digital para clientes (landing pages, sites institucionais, painéis e integrações), em stack moderna (**Astro**, **Next.js**, **TypeScript**, **Laravel**). Cuido da parte que muitas vezes fica para trás: **hospedagem na VPS**, pipelines com **Docker** e **Coolify**, domínios, SSL e ambientes que não dependem de “mágica” de plataforma.
+
+Também mexo com **visibilidade** além do SEO clássico — **AEO** e **GEO** para busca assistida por IA — e automatizo fluxos (transcrição, CRM, tarefas internas). Parte disso vira código aberto aqui; parte fica em repos privados de clientes.
+
+Fora do cliente, registro o processo no YouTube [**@Basco-flowia**](https://www.youtube.com/@Basco-flowia) e escrevo no [**camadapratica.blog**](https://camadapratica.blog) sobre prática de desenvolvimento, ferramentas e o que aprendo a construir em produção.
+
+### O que costumo entregar
+
+- Landing pages e sites rápidos, acessíveis e prontos para campanha
+- Backends, painéis e ferramentas internas (Laravel, APIs, TypeScript)
+- Auditoria e implementação de **SEO / AEO / GEO**
+- Deploy e operação **self-hosted** (Coolify, Docker, monitorização básica)
 
 ### Projetos em destaque
 
