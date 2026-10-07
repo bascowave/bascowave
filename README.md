@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Basco Wave 👋</h1>
+<h1 align="center">Olá, eu sou o Basco Wave </h1>
 
 <p align="center">
   Desenvolvedor web focado em <strong>landing pages</strong>, produtos digitais e deploy com <strong>Coolify</strong>.
